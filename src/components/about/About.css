@@ -1,0 +1,21 @@
+.profile-pic {
+  box-sizing: border-box;
+}
+
+.profile-pic img {
+  width: 100%;
+  padding: 20px;
+}
+
+.profile-content {
+  box-sizing: border-box;
+}
+
+.profile-content p {
+  width: 100%;
+  padding: 20px;
+}
+
+.accordion-button {
+    font-weight: bold;
+}
