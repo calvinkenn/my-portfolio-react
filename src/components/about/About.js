@@ -35,13 +35,13 @@ const About = () => {
                 <Accordion.Body>
                   <Container fluid>
                     <Row className="pb-3">
-                      <Col md={6}>Bulacan State University</Col>
-                      <Col md={4}>BSIT Major in Web Development</Col>
+                      <Col md={4}>Bulacan State University</Col>
+                      <Col md={6}>BSIT Major in Web Development</Col>
                       <Col md={2}>2018-2022</Col>
                     </Row>
                     <Row>
-                      <Col md={6}>St. Amatiel Technological Institute</Col>
-                      <Col md={4}>
+                      <Col md={4}>St. Amatiel Technological Institute</Col>
+                      <Col md={6}>
                         Associates Degree in Computer Programming
                       </Col>
                       <Col md={2}>2015-2017</Col>

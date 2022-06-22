@@ -39,8 +39,8 @@ const CertificatesList = () => {
     <Container fluid className="p-3">
       <Row className="row justify-content-center">
         {certImage?.map((item) => (
-          <Col className="p-3" sm="auto">
-            <CertificatesItem img={item.cert} key={item.id} />
+          <Col className="p-3" sm="auto" key={item.id}>
+            <CertificatesItem img={item.cert} />
           </Col>
         ))}
       </Row>
