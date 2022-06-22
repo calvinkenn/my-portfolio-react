@@ -4,7 +4,6 @@ import ProjectItem from "./ProjectItem";
 import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import CardGroup from "react-bootstrap/CardGroup";
 
 import web1 from "../../assets/projects/web/1.png";
 import web2 from "../../assets/projects/web/2.png";
