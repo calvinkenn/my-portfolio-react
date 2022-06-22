@@ -9,7 +9,7 @@ const ProjectItem = (props) => {
       <Carousel variant="dark">
         {props.img?.map((item, i) => (
           <Carousel.Item key={i}>
-            <img className="d-block w-100" src={item} />
+            <img className="d-block w-100" src={item} alt="proj-img"/>
           </Carousel.Item>
         ))}
       </Carousel>

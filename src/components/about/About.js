@@ -78,6 +78,20 @@ const About = () => {
                   </Container>
                 </Accordion.Body>
               </Accordion.Item>
+              <Accordion.Item eventKey="4">
+                <Accordion.Header>Contact Information</Accordion.Header>
+                <Accordion.Body>
+                  <Container fluid>
+                    <Row>
+                      <Col md={12}>Email: calvink.palma@gmail.com</Col>
+                      <Col md={12}>Phone: 09334235465</Col>
+                      <Col md={12}>
+                        Git: <a href="https://github.com/calvinkenn" target="blank">My Git</a>
+                      </Col>
+                    </Row>
+                  </Container>
+                </Accordion.Body>
+              </Accordion.Item>
             </Accordion>
           </div>
         </Col>
