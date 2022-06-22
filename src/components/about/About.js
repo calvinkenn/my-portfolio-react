@@ -54,13 +54,13 @@ const About = () => {
                 <Accordion.Body>
                   <Container fluid>
                     <Row className="pb-3">
-                      <Col md={6}>Accenture ATLP Program</Col>
-                      <Col md={4}>OJT</Col>
+                      <Col md={4}>Accenture ATLP Program</Col>
+                      <Col md={6}>OJT</Col>
                       <Col md={2}>2021-2022</Col>
                     </Row>
                     <Row>
-                      <Col md={6}>Infinite Global Solutions</Col>
-                      <Col md={4}>Virtual Assistant</Col>
+                      <Col md={4}>Infinite Global Solutions</Col>
+                      <Col md={6}>Virtual Assistant</Col>
                       <Col md={2}>2017-2018</Col>
                     </Row>
                   </Container>
