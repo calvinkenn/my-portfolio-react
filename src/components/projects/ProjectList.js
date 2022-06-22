@@ -4,6 +4,7 @@ import ProjectItem from "./ProjectItem";
 import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
+import CardGroup from "react-bootstrap/CardGroup";
 
 import web1 from "../../assets/projects/web/1.png";
 import web2 from "../../assets/projects/web/2.png";
@@ -80,7 +81,7 @@ const ProjectList = () => {
     <Container fluid className="p-3">
       <Row className="row justify-content-center">
         {projects?.map((item) => (
-          <Col className="p-3" sm="auto" key={item.id}>
+          <Col className="p-3 card-group" sm="auto" key={item.id}>
             <ProjectItem
               id={item.id}
               img={item.img}
