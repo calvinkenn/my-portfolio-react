@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/%7Bmy-portfolio-react%7D/static/css/main.aba10067.css",
-    "main.js": "/%7Bmy-portfolio-react%7D/static/js/main.023bde7e.js",
-    "static/media/me.jpg": "/%7Bmy-portfolio-react%7D/static/media/me.be383f5679b0a1f06069.jpg",
-    "static/media/2.jpg": "/%7Bmy-portfolio-react%7D/static/media/2.732638694c12a9ec1200.jpg",
-    "static/media/5.jpg": "/%7Bmy-portfolio-react%7D/static/media/5.a016609ff7eb9447dfb9.jpg",
-    "static/media/4.jpg": "/%7Bmy-portfolio-react%7D/static/media/4.94a4bb966e957e325651.jpg",
-    "static/media/3.jpg": "/%7Bmy-portfolio-react%7D/static/media/3.4e920890ec689546c8a2.jpg",
-    "static/media/1.jpg": "/%7Bmy-portfolio-react%7D/static/media/1.ea36724dc151c2fb38c5.jpg",
-    "static/media/react.png": "/%7Bmy-portfolio-react%7D/static/media/react.a06029b89765d14bf534.png",
-    "static/media/web.png": "/%7Bmy-portfolio-react%7D/static/media/web.a186798cbc7d86688d91.png",
-    "static/media/interview.png": "/%7Bmy-portfolio-react%7D/static/media/interview.9b0f2c83494adcf387a6.png",
-    "static/media/git.png": "/%7Bmy-portfolio-react%7D/static/media/git.3a20919a4fb443de77c1.png",
-    "static/media/vs.png": "/%7Bmy-portfolio-react%7D/static/media/vs.927fb4baa21a63c5450c.png",
-    "static/media/6.png": "/%7Bmy-portfolio-react%7D/static/media/6.86fc8044461114671a0e.png",
-    "static/media/3.png": "/%7Bmy-portfolio-react%7D/static/media/3.a5089b249c095699621b.png",
-    "static/media/1.png": "/%7Bmy-portfolio-react%7D/static/media/1.2c6bc47f58c6c7c9b589.png",
-    "static/media/4.png": "/%7Bmy-portfolio-react%7D/static/media/4.c24bb4b7e0a672aaff71.png",
-    "static/media/5.png": "/%7Bmy-portfolio-react%7D/static/media/5.b6a0a298ea0fa9268583.png",
-    "static/media/2.png": "/%7Bmy-portfolio-react%7D/static/media/2.d3a00c93d3bcd1dbbaec.png",
-    "index.html": "/%7Bmy-portfolio-react%7D/index.html",
-    "main.aba10067.css.map": "/%7Bmy-portfolio-react%7D/static/css/main.aba10067.css.map",
-    "main.023bde7e.js.map": "/%7Bmy-portfolio-react%7D/static/js/main.023bde7e.js.map"
+    "main.css": "/my-portfolio-react/static/css/main.aba10067.css",
+    "main.js": "/my-portfolio-react/static/js/main.45c888af.js",
+    "static/media/me.jpg": "/my-portfolio-react/static/media/me.be383f5679b0a1f06069.jpg",
+    "static/media/2.jpg": "/my-portfolio-react/static/media/2.732638694c12a9ec1200.jpg",
+    "static/media/5.jpg": "/my-portfolio-react/static/media/5.a016609ff7eb9447dfb9.jpg",
+    "static/media/4.jpg": "/my-portfolio-react/static/media/4.94a4bb966e957e325651.jpg",
+    "static/media/3.jpg": "/my-portfolio-react/static/media/3.4e920890ec689546c8a2.jpg",
+    "static/media/1.jpg": "/my-portfolio-react/static/media/1.ea36724dc151c2fb38c5.jpg",
+    "static/media/react.png": "/my-portfolio-react/static/media/react.a06029b89765d14bf534.png",
+    "static/media/web.png": "/my-portfolio-react/static/media/web.a186798cbc7d86688d91.png",
+    "static/media/interview.png": "/my-portfolio-react/static/media/interview.9b0f2c83494adcf387a6.png",
+    "static/media/git.png": "/my-portfolio-react/static/media/git.3a20919a4fb443de77c1.png",
+    "static/media/vs.png": "/my-portfolio-react/static/media/vs.927fb4baa21a63c5450c.png",
+    "static/media/6.png": "/my-portfolio-react/static/media/6.86fc8044461114671a0e.png",
+    "static/media/3.png": "/my-portfolio-react/static/media/3.a5089b249c095699621b.png",
+    "static/media/1.png": "/my-portfolio-react/static/media/1.2c6bc47f58c6c7c9b589.png",
+    "static/media/4.png": "/my-portfolio-react/static/media/4.c24bb4b7e0a672aaff71.png",
+    "static/media/5.png": "/my-portfolio-react/static/media/5.b6a0a298ea0fa9268583.png",
+    "static/media/2.png": "/my-portfolio-react/static/media/2.d3a00c93d3bcd1dbbaec.png",
+    "index.html": "/my-portfolio-react/index.html",
+    "main.aba10067.css.map": "/my-portfolio-react/static/css/main.aba10067.css.map",
+    "main.45c888af.js.map": "/my-portfolio-react/static/js/main.45c888af.js.map"
   },
   "entrypoints": [
     "static/css/main.aba10067.css",
-    "static/js/main.023bde7e.js"
+    "static/js/main.45c888af.js"
   ]
 }
