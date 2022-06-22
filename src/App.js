@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import "./App.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -14,6 +14,7 @@ function App() {
     <React.Fragment>
       <MainNavigation />
       <Routes>
+        <Route path="*" element={<Navigate to="/" />} />
         <Route exact path="/" element={<About />}></Route>
         <Route exact path="/projects" element={<Projects />}></Route>
         <Route exact path="/certificates" element={<Certificates />}></Route>

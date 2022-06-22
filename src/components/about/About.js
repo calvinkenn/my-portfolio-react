@@ -36,7 +36,7 @@ const About = () => {
                   <Container fluid>
                     <Row className="pb-3">
                       <Col md={4}>Bulacan State University</Col>
-                      <Col md={6}>BSIT Major in Web Development</Col>
+                      <Col md={6}>BSIT Major in Web and Mobile Development</Col>
                       <Col md={2}>2018-2022</Col>
                     </Row>
                     <Row>
